@@ -1,2 +1,2 @@
 ## Concentric Circles
-![circle.jpg]
+![circle.jpg](circle.jpg)
